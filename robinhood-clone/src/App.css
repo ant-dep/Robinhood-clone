@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.app {
+  place-items: center;
+}
+
+.app__body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  z-index: -1;
+}
+
+.app__container {
+  display: flex;
+  padding-top: 36px;
+  width: 1024px;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+  color: #fff;
+  z-index: 50;
+}
