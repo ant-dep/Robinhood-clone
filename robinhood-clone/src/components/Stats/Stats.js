@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Stats.css";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import StatsRow from "./StatsRow";
-import { key } from "../../api";
+import key from "../../api";
 import axios from "axios";
 import { db } from "../../firebase";
 

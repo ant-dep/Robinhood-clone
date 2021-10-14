@@ -1,4 +1,4 @@
-.header__wrapper {
+.header {
   background-color: black;
   color: white;
   display: flex;
@@ -8,12 +8,14 @@
 }
 
 .header__logo {
-  margin-left: 48px;
+  text-align: center;
+  flex: 0.1;
 }
 
 .header__search {
   display: flex;
   align-items: center;
+  flex: 0.4;
   background-color: black;
   height: 39px;
   padding: 10px;
@@ -36,9 +38,6 @@
 
 .header__searchContainer > input {
   border: none;
-  width: 375px;
-  margin-left: 5px;
-  margin-right: 10px;
   background-color: black;
   color: white;
 }
@@ -48,7 +47,9 @@
 }
 
 .header__menuItems {
-  margin-right: 48px;
+  display: flex;
+  justify-content: space-around;
+  flex: 0.5;
 }
 
 .header__menuItems a {

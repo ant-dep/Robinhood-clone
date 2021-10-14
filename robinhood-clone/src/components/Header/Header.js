@@ -5,7 +5,7 @@ import Logo from "../../robinhood.svg";
 
 function Header() {
   return (
-    <div className="header__wrapper">
+    <div className="header">
       <div className="header__logo">
         <img src={Logo} alt="Robinhood Logo" width={25} />
       </div>
