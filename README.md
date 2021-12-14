@@ -1,4 +1,4 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fmoneybadger.stocktwits.com%2Fwp-content%2Fuploads%2F2017%2F03%2Frobinhood-logo.png%3Fresize%3D1018%252C520&f=1&nofb=1" width="200" alt="Robinhood logo"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdesignfile.com%2Fpostpic%2F2013%2F07%2Fvertical-divider-line_253162.png&f=1&nofb=1" height='100' width="50" alt="divider"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="250" alt="React.js logo">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fmoneybadger.stocktwits.com%2Fwp-content%2Fuploads%2F2017%2F03%2Frobinhood-logo.png%3Fresize%3D1018%252C520&f=1&nofb=1" width="200" alt="Robinhood logo">  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="250" alt="React.js logo">
 
 <hr class="line"></br>
 
@@ -8,7 +8,7 @@ https://robinhood-clone-fb888.web.app
 
 <h2>FRONTEND</h2></br>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="200" alt="React.js logo"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdesignfile.com%2Fpostpic%2F2013%2F07%2Fvertical-divider-line_253162.png&f=1&nofb=1" height='75' width="50" alt="divider"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmaterial-ui-logo-5BDCB9BA8F-seeklogo.com.png&f=1&nofb=1" width="100" alt="Material-UI logo"></br></br></br></br></br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="200" alt="React.js logo">  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmaterial-ui-logo-5BDCB9BA8F-seeklogo.com.png&f=1&nofb=1" width="100" alt="Material-UI logo"></br></br></br></br></br>
 
 <h2>BACKEND</h2></br>
 
